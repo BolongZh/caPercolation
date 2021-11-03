@@ -1,4 +1,4 @@
 # caPercolation
 percolation process simulation
 
-Libraries: networkx, matplotlib, numpy
+Dependency: networkx, matplotlib, numpy
